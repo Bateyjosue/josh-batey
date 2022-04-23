@@ -129,5 +129,13 @@ section
             color: var(--color-grey-2);
             pointer-events: none;
         }
-    }    
+    }
+
+    .control:hover
+    {
+        color: var(--color-white)!important;
+        background-color: var(--color-secondary-1)!important;
+
+    }
+    
 }
