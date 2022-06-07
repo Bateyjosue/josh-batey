@@ -87,6 +87,10 @@ section
     transform: translateY(0) scale(1);
 }
 
+.active{
+    display: block;
+}
+
 .controls
 {
     position: fixed;
